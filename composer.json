@@ -28,7 +28,7 @@
     "require-dev": {
         "fakerphp/faker": "^1.8",
         "laravel/browser-kit-testing": "^7.0",
-        "laravel/laravel": "^9.0",
+        "laravel/laravel": "^8.0|^9.0",
         "laravel/ui": "^3.4",
         "php-coveralls/php-coveralls": "^2.4",
         "phpmd/phpmd": "^2.9",
